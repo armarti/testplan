@@ -44,3 +44,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 Thumbs.db
+*_report.txt
+.ipynb_checkpoints/
+/examples/Cpp/GTest/test/runTests
